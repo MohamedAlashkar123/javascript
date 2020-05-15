@@ -8,10 +8,8 @@
 --from Questoins q inner join Questions_Exam qe
 --on q.Q_id = qe.Q_id and qe.exam_id = @examID
 --end
-  
 
 
----sss
 --getQuesByExamID 1;
 --------------------------------------------------------
 --exam id -->all exam ques --> 
